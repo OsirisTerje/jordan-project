@@ -1,2 +1,3 @@
-Scratchpad
-==========
+# GitHub Foundations
+## with Jordan & Markus
+
