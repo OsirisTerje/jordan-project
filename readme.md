@@ -1,1 +1,3 @@
-Startting with soem info
+Startting with some info
+
+Workshop with Jordan
